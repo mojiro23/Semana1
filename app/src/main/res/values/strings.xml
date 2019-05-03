@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Semana1</string>
+    <string name="edit_text_hint">Ingrese su nombre</string>
+    <string name="Consultar">consultar</string>
+    <string name="Consultar_2">consultar2</string>
+    <string name="title_activity_new">NewActivity</string>
+
+</resources>
